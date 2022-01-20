@@ -1,0 +1,10 @@
+version: "1.0"
+
+Prime_numbers:
+  columns:
+    id:
+      type: integer
+      primary: true
+      autoincrement: true
+    prime_number:
+      type: integer
