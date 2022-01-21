@@ -1,5 +1,7 @@
 version: "1.0"
 
+detect_relations: false
+
 Prime_numbers:
   columns:
     id:
